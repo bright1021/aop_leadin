@@ -38,6 +38,7 @@ public class Test {
         com.ban02.service.SomeService proxy = (com.ban02.service.SomeService) ac.getBean("someServiceTarget1");
         proxy.doSome("chang",20);
         System.out.println("hello chang");
+        System.out.println("不要再说话了");
 
     }
 }
