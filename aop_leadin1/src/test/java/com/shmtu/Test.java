@@ -39,6 +39,7 @@ public class Test {
         proxy.doSome("chang",20);
         System.out.println("hello changliang");
         System.out.println("不要再说话了");
+        System.out.println("hot-fix-test1");
 
     }
 }
